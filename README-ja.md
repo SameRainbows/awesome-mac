@@ -1203,6 +1203,7 @@ Awesome Mac
 * [Spokenly](https://spokenly.app/) - 100以上の言語、オフラインモード、AI搭載のフォーマットを備えた音声テキスト変換。
 * [Tambourine](https://tambourinevoice.com/) - あらゆるアプリで動作するオープンソースのカスタマイズ可能なAI音声ディクテーション。 [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
 * [Tamka](https://www.piedol.top/tamka/) - Neural EngineでNVIDIA Parakeetモデルを動かし、あらゆるアプリのカーソル位置に入力する、オープンソースのオンデバイス音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Typd](https://typd.mehmetdedeler.com) - ファインチューニングしたQwen3-ASRモデル1つで文字起こしと整形を行い、カーソル位置に貼り付けるオープンソースのローカル音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/SameRainbows/typd-app) ![Freeware][Freeware Icon]
 * [TypeWhisper](https://www.typewhisper.com) - Whisperベースのローカル音声テキスト変換ツール。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [VoiceInk](https://tryvoiceink.com/) - リアルタイム音声テキスト変換アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [Voltip](https://voltip.firlab.app/) - ローカルまたはクラウドの音声認識と AI による整文に対応し、ペアリングした Android スマートフォンをマイクとしても使えるオープンソースのプッシュトゥトーク音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
